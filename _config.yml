@@ -18,12 +18,12 @@ avatar: https://www.southwales.ac.uk/media/images/Thinks.8dd35e85.fill-1366x700.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:lu.tang.ubc@gmail.com
-  facebook:https://www.facebook.com/lu.tang.1422
+  email: lu.tang.ubc@gmail.com
+  facebook: https://www.facebook.com/lu.tang.1422
   flickr:
   github: https://github.com/lutang123
   instagram:
-  linkedin:https://www.linkedin.com/in/lutang123/
+  linkedin: https://www.linkedin.com/in/lutang123/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
