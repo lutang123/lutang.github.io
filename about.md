@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# About Lu
+Lu is currently pursuing Data Science Diploma at BrainStation in Vancouver
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Lu is passionate on analyzing data to help business make data-driven decisions
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lu.tang.ubc@gmail.com](mailto:lu.tang.ubc@gmail.com)
+
+
